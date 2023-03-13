@@ -1,0 +1,15 @@
+wandb/
+*.log
+checkpoints/
+*.sh
+*.pkl
+.neptune/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
+*.png
+*.yaml
+*.csv
+*.txt
+bandwidth-graph-generation/resource/tokenizer/
+bandwidth-graph-generation/moses/
